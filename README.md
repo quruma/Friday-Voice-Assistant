@@ -44,4 +44,4 @@ Asia/Tokyo
 ```
 
 ## Step 5
-Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the function __ wake_up() __
+Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the function __wake_up()__
