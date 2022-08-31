@@ -7,4 +7,13 @@ Friday uses Artificial Inteligence (AI) technologies, such as NLP (natural langu
 # Prerequisites
 ## For Windows
 
->pip install joblib  pip install scikit-learn  pip install pygame  pip install vosk  pip install sentence-transformers  pip install soundevice  pip install threading  pip install pyttsx3  pip install keyboard  pip install requests
+>pip install joblib  
+>pip install scikit-learn  
+>pip install pygame  
+>pip install vosk  
+>pip install sentence-transformers  
+>pip install soundevice  
+>pip install threading  
+>pip install pyttsx3  
+>pip install keyboard  
+>pip install requests
