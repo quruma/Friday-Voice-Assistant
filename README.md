@@ -27,6 +27,5 @@ It will allow Friday to get weather forecasts.
 ## Step 2
 Clone repository to your directory:
 ```
-cd 'YOUR DIRECTORY'
 git clone https://github.com/sbatman61/Friday-Voice-Assistant.git 
 ```
