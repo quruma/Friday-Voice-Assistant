@@ -17,3 +17,8 @@ pip install pyttsx3
 pip install keyboard  
 pip install requests
 ```
+
+# Instalation
+
+## Step 1
+You should get an API key from [https://openweathermap.org/](https://openweathermap.org/) (It is free, you just need to sign up 😺)
