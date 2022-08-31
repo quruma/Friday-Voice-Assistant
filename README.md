@@ -21,4 +21,12 @@ pip install requests
 # Instalation
 
 ## Step 1
-You should get an API key from [https://openweathermap.org/](https://openweathermap.org/) (It is free, you just need to sign up 😺)
+You should get an API key from [https://openweathermap.org/](https://openweathermap.org/) (It is free, you just need to sign up 😺)  
+It will allow Friday to get weather forecasts.  
+
+## Step 2
+Clone repository to your directory:
+```
+cd 'YOUR DIRECTORY'
+git clone 
+```
