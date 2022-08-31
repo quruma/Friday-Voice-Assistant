@@ -40,5 +40,8 @@ Open __Friday-Voice-Assistant/settings/OpenWeatherMapApiKey.txt__ and write in t
 Asia/Tokyo  
   
     
-     
+  
 ```
+
+## Step 5
+Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the function __ wake_up() __
