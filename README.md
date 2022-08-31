@@ -47,4 +47,4 @@ Asia/Tokyo
 Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the __wake_up()__ function. Furthermore, you can even change the mechanics of this function if you want. 
 
 # Note
-If you want to retrain the model used in Friday by yourself, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset.
+If you want to retrain the model used in Friday by yourself, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file).
