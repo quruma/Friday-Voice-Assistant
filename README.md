@@ -12,8 +12,7 @@ pip install scikit-learn
 pip install pygame  
 pip install vosk  
 pip install sentence-transformers  
-pip install soundevice  
-pip install threading  
+pip install sounddevice  
 pip install pyttsx3  
 pip install keyboard  
 pip install requests
