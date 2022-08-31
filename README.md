@@ -21,11 +21,17 @@ pip install requests
 # Instalation
 
 ## Step 1
-You should get an API key from [https://openweathermap.org/](https://openweathermap.org/) (It is free, you just need to sign up 😺)  
+You should get an API key from [https://openweathermap.org/](https://openweathermap.org/) (It is free, you just need to sign up 😺).  
 It will allow Friday to get weather forecasts.  
 
 ## Step 2
 Clone repository to your directory:
 ```
+cd <YOUR_DIRECTORY>
 git clone https://github.com/sbatman61/Friday-Voice-Assistant.git 
 ```
+## Step 3
+Run file prepare_directories.py to create all the needed files and folders
+
+## Step 4
+Open __Friday-Voice-Assistant/settings/OpenWeatherMapApiKey.txt__ and write in the first line your API key and your region/city (Asia/Baku) in the second line. 
