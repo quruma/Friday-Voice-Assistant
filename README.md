@@ -39,5 +39,8 @@ For example:
 >OpenWeatherMapApiKey.txt
 ```
 jdlai129812h12njeh1dhwk134j1oi124
-Asia/Tokyo
+Asia/Tokyo  
+  
+    
+     
 ```
