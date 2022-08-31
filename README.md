@@ -31,7 +31,7 @@ cd <YOUR_DIRECTORY>
 git clone https://github.com/sbatman61/Friday-Voice-Assistant.git 
 ```
 ## Step 3
-Run file prepare_directories.py to create all the needed files and folders
+Run the file __prepare_directories.py__ to create all necessary files and folders.
 
 ## Step 4
 Open __Friday-Voice-Assistant/settings/OpenWeatherMapApiKey.txt__ and write in the first line your API key and your region/city (Asia/Baku) in the second line. 
