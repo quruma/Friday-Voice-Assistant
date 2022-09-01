@@ -93,4 +93,4 @@ The Friday will use more complex models to calculate the needed functions to be 
 
 Thank you!:3
 
-If you have any problems with instalation or using Friday, feel free to cantact me:**_mizu2guruma@gmail.com_**
+If you have any problems with instalation or using Friday, feel free to cantact me: **_mizu2guruma@gmail.com_**
