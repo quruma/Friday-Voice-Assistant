@@ -6,6 +6,7 @@ Friday uses Artificial Inteligence (AI) technologies, such as NLP (natural langu
 
 # Prerequisites
 ## For Windows
+Make sure to have suitable version of modules:
 ```
 Python (>=3.5)
 NumPy (>= 1.11.0)
@@ -16,10 +17,21 @@ Pandas (>= 0.18. 0)
 ```
 
 Also i have   
+```
 vosk (0.3.42)  
 pyttsx3 (2.90)  
 PyAudio (0.2.12)  
 pygame (2.1.2)  
+joblib (1.1.0)
+matplotlib (3.5.2)
+scipy (1.9.1)
+scikit-learn (1.1.2)
+pandas (1.4.2)
+transformers (4.17.0)
+sentence-transformers (2.2.2)
+numpy (1.23.2)
+
+```
 
 ```
 pip install pyaudio
