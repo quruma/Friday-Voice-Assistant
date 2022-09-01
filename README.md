@@ -30,6 +30,8 @@ pandas (1.4.2)
 transformers (4.17.0)
 sentence-transformers (2.2.2)
 numpy (1.23.2)
+sounddevice (0.4.5)
+
 
 ```
 
