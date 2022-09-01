@@ -6,7 +6,7 @@ Friday uses Artificial Inteligence (AI) technologies, such as NLP (natural langu
 
 # Prerequisites
 ## For Windows
-```sh
+```
 pip install joblib  
 pip install scikit-learn  
 pip install pygame  
@@ -52,5 +52,14 @@ Run the file __main.py__  to launch Friday. First launch will be the longest, as
 If you want to retrain the model used in Friday for your own uses, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file). Remember you would have to use only two columns in your dataset: command and function. You can read more about this in [documentation]()
 ## About future updates of Friday
 The Friday will use more complex models to calculate the needed functions to execute. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without big losses in time. However, the most surprising thing will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
+
+# How to use it?
+Yet, there are only 6 functions that Friday is capable to execute:
+1.Remember_CMD (Remembers context information from query)
+2.QuestionAnswering_CMD (Answer to question based on what was remembred)
+3.BrowserSearch_CMD (Use query as request to browser search)
+4.Music_CMD (can play the songs by name, play random songs, stop, pause and resume them)
+5.Temperature_CMD (usings OpenWeatherMap API you can get needed info about weather in your region)
+6.Stopwatch_CMD (set or stops a stopwatch)
 
 Thank you!:3
