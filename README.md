@@ -11,6 +11,7 @@ pip install joblib
 pip install scikit-learn  
 pip install pygame  
 pip install vosk  
+pi install transofmers
 pip install sentence-transformers  
 pip install sounddevice  
 pip install pyttsx3  
@@ -44,10 +45,11 @@ Asia/Tokyo
 ```
 
 ## Step 5
-Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the __wake_up()__ function. Furthermore, you can even change the mechanics of this function if you want. 
+Run the __main.py__ to launch Friday. First launch will be the longest, as it will install a few dependencies like transformers models. As default, you can wake up Friday by pressing __'alt+q'__, but you can change it in __main.py__ in the __wake_up()__ function. Furthermore, you can even change the mechanics of this function if you want. 
 
 # Note
-## Adapt ML model to your needs
-If you want to retrain the model used in Friday by yourself, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file).
+## Adapt ML model to your own needs
+If you want to retrain the model used in Friday for your own aims, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file). Remember you would have to use only two columns:
+command and function. You can read more about this in [documentation]()
 ## About future updates of Friday
 The Friday will use more complex models to calculate the needed functions to execute. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without big losses in time. However, the most surprising thing will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
