@@ -7,6 +7,22 @@ Friday uses Artificial Inteligence (AI) technologies, such as NLP (natural langu
 # Prerequisites
 ## For Windows
 ```
+Python (>=3.5)
+NumPy (>= 1.11.0)
+Scipy (>= 0.17.0)li.
+Joblib (>= 0.11)
+Matplotlib (>= 1.5. 1)
+Pandas (>= 0.18. 0)
+```
+
+Also i have   
+vosk (0.3.42)  
+pyttsx3 (2.90)  
+PyAudio (0.2.12)  
+pygame (2.1.2)  
+
+```
+pip install pyaudio
 pip install joblib  
 pip install scikit-learn  
 pip install pygame  
