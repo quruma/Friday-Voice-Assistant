@@ -55,7 +55,7 @@ The Friday will use more complex models to calculate the needed functions to exe
 
 # How to use it?
 Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
-```
+
 1.**Remember_CMD** <br><br/>
 (Remembers context information from query)  
 
@@ -73,5 +73,5 @@ Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 
 6.**Stopwatch_CMD** <br><br/>
 (Sets or stops a stopwatch)
-```
+
 Thank you!:3
