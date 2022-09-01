@@ -59,26 +59,26 @@ Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 >1.**Remember_CMD**  
 >
 (Remembers context information from query)  
-for example: __remember__ this adress please Branton streen one two three (Branton street 123)
+for example: __remember__ this address please Branton street one two three (Branton street 123)
 
 >2.**QuestionAnswering_CMD**  
 >
-(Answer to question based on what was remembred)  
+(Answer to the question based on what was remembred)  
 for example: __answer__ what was that adress
 
 >3.**BrowserSearch_CMD** 
 >
-(Use query as request to browser search)  
+(Use query as request of browser search)  
 for example: __search__ what is ip adress
 
 >4.**Music_CMD**  
 >
 (can play the songs by name, play random songs, stop, pause and resume them)  
-for example: __play__ sweater weather, __play__ anything, __stop__ the music, __pause__ it for a second, you can **resume** the song
+for example: __play__ sweater weather, __play__ anything, __stop__ the music, __pause__ it for a second, now you can **resume** the song
 
 >5.**Temperature_CMD**  
 >
-(Using OpenWeatherMap API you can get needed information about weather forecasts in your region)  
+(Using OpenWeatherMap API this function gets needed information about weather forecasts in your region)  
 for example: what about the __weather__ today
 
 >6.**Stopwatch_CMD**  
@@ -86,6 +86,6 @@ for example: what about the __weather__ today
 (Sets or stops a stopwatch)  
 for example: set a stopwatch please, stop a stopwatch  
   
-Every function has it is own keywords which will make it easier for model to predict needed function. You can read them in the [documentaion]() 
+Every function has its own keywords which will make it easier for model to make more accurate prediction of needed function. You can read about them in the [documentaion]() 
 
 Thank you!:3
