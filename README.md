@@ -16,7 +16,7 @@ Matplotlib (>= 1.5. 1)
 Pandas (>= 0.18. 0)
 ```
 
-Also i have   
+Personally, i have these version of libraries
 ```
 vosk (0.3.42)  
 pyttsx3 (2.90)  
