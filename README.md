@@ -49,7 +49,8 @@ Run the file __main.py__  to launch Friday. First launch will be the longest, as
 
 # Note
 ## Adapt ML model to your own needs
-If you want to retrain the model used in Friday for your own aims, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file). Remember you would have to use only two columns:
-command and function. You can read more about this in [documentation]()
+If you want to retrain the model used in Friday for your own uses, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file). Remember you would have to use only two columns in your dataset: command and function. You can read more about this in [documentation]()
 ## About future updates of Friday
 The Friday will use more complex models to calculate the needed functions to execute. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without big losses in time. However, the most surprising thing will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
+
+Thank you!:3
