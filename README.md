@@ -56,27 +56,22 @@ The Friday will use more complex models to calculate the needed functions to exe
 # How to use it?
 Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 ```
-1.Remember_CMD <br><br/>
+1.**Remember_CMD** <br><br/>
 (Remembers context information from query)  
-<br><br/>
 
-2.QuestionAnswering_CMD <br><br/>
+2.**QuestionAnswering_CMD** <br><br/>
 (Answer to question based on what was remembred)  
-<br><br/>
 
-3.BrowserSearch_CMD <br><br/>
+3.**BrowserSearch_CMD** <br><br/>
 (Use query as request to browser search)  
-<br><br/>
 
-4.Music_CMD <br><br/>
+4.**Music_CMD** <br><br/>
 (can play the songs by name, play random songs, stop, pause and resume them)
-<br><br/>
 
-5.Temperature_CMD <br><br/>
+5.**Temperature_CMD** <br><br/>
 (Using OpenWeatherMap API you can get needed information about weather forecasts in your region)
-<br><br/>
 
-6.Stopwatch_CMD <br><br/>
+6.**Stopwatch_CMD** <br><br/>
 (Sets or stops a stopwatch)
 ```
 Thank you!:3
