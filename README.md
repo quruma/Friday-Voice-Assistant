@@ -61,7 +61,7 @@ Yet, there are only 6 functions that Friday is capable to execute:<br>
 <br>
 
 2.QuestionAnswering_CMD <br>
-(Answer to question based on what was remembred)<br><br>
+(Answer to question based on what was remembred)<br>
 <br>
 
 3.BrowserSearch_CMD <br>
