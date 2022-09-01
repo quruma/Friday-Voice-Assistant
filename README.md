@@ -69,7 +69,7 @@ Open __Friday-Voice-Assistant/settings/OpenWeatherMapApiKey.txt__ and write in t
 ```
 <YOUR API KEY>  
 Asia/Tokyo  
-  
+
 
 ```
 
