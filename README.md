@@ -59,7 +59,7 @@ It will allow Friday to get weather forecasts.
 Clone repository to your directory:
 ```
 cd <YOUR_DIRECTORY>
-git clone https://github.com/sbatman61/Friday-Voice-Assistant.git 
+git clone https://github.com/quruma/Friday-Voice-Assistant.git
 ```
 ## Step 3
 Run the file __prepare_directories.py__ to create all necessary files and folders.
