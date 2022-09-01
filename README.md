@@ -51,7 +51,7 @@ Run the file __main.py__  to launch Friday. First launch will be the longest, as
 ## Adapt ML model to your own needs
 If you want to retrain the model used in Friday for your own uses, you can use __model_training.py__ file to do that. The only thing you would need to provide is a path to training dataset (which is have to be a csv file). Remember you would have to use only two columns in your dataset: command and function. You can read more about this in [documentation]()
 ## About future updates of Friday
-The Friday will use more complex models to calculate the needed functions to execute. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without big losses in time. However, the most surprising thing will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
+The Friday will use more complex models to calculate the needed functions to be executed. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without considerable losses in time. Obviously, there will be more functions to execute. However, the most surprising point will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
 
 # How to use it?
 Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
@@ -86,6 +86,6 @@ for example: what about the __weather__ today
 (Sets or stops a stopwatch)  
 for example: set a stopwatch please, stop a stopwatch  
   
-Every function has its own keywords which will make it easier for model to make more accurate prediction of needed function. You can read about them in the [documentaion]() 
+Every function has its own keywords which will make it easier for model to make more accurate predictions of needed function. You can read about them in the [documentaion]() 
 
 Thank you!:3
