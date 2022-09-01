@@ -57,15 +57,15 @@ The Friday will use more complex models to calculate the needed functions to exe
 Yet, there are only 6 functions that Friday is capable to execute:<br>
 ```
 1.Remember_CMD <br>
-(Remembers context information from query)<br>
+(Remembers context information from query)<br/>
 <br>
 
-2.QuestionAnswering_CMD <br>
-(Answer to question based on what was remembred)<br>
+2.QuestionAnswering_CMD <br/>
+(Answer to question based on what was remembred)<br/>
 <br>
 
 3.BrowserSearch_CMD <br>
-(Use query as request to browser search)<br>
+(Use query as request to browser search)<br/>
 <br>
 
 4.Music_CMD <br>
