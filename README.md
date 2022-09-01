@@ -17,7 +17,7 @@ pip install sounddevice
 pip install pyttsx3  
 pip install keyboard  
 pip install requests
-```
+```bat
 
 # Instalation
 
