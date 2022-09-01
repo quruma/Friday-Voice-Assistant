@@ -73,7 +73,7 @@ for example: __search__ what is ip adress
 
 >4.**Music_CMD**  
 >
-(can play the songs by name, play random songs, stop, pause and resume them)
+(can play the songs by name, play random songs, stop, pause and resume them)  
 for example: __play__ sweater weather, __play__ anything, __stop__ the music, __pause__ it for a second, you can **resume** the song
 
 >5.**Temperature_CMD**  
@@ -84,6 +84,8 @@ for example: what about the __weather__ today
 >6.**Stopwatch_CMD**  
 >
 (Sets or stops a stopwatch)  
-for example: set a stopwatch please, stop a stopwatch
+for example: set a stopwatch please, stop a stopwatch  
+  
+Every function has it is own keywords which will make it easier for model to predict needed function. You can read them in the [documentaion]() 
 
 Thank you!:3
