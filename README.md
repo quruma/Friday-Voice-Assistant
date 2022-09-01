@@ -54,29 +54,29 @@ If you want to retrain the model used in Friday for your own uses, you can use _
 The Friday will use more complex models to calculate the needed functions to execute. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without big losses in time. However, the most surprising thing will be implementing Computer Vision to Friday, which will greatly increase its capabilities.   
 
 # How to use it?
-Yet, there are only 6 functions that Friday is capable to execute:<br>
+Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 ```
-1.Remember_CMD <br>
+1.Remember_CMD <br><br/>
 (Remembers context information from query)  
-<br>
+<br><br/>
 
-2.QuestionAnswering_CMD <br/>
+2.QuestionAnswering_CMD <br><br/>
 (Answer to question based on what was remembred)  
-<br>
+<br><br/>
 
-3.BrowserSearch_CMD <br>
+3.BrowserSearch_CMD <br><br/>
 (Use query as request to browser search)  
-<br>
+<br><br/>
 
-4.Music_CMD <br>
+4.Music_CMD <br><br/>
 (can play the songs by name, play random songs, stop, pause and resume them)
-<br>
+<br><br/>
 
-5.Temperature_CMD <br>
+5.Temperature_CMD <br><br/>
 (Using OpenWeatherMap API you can get needed information about weather forecasts in your region)
-<br>
+<br><br/>
 
-6.Stopwatch_CMD <br>
+6.Stopwatch_CMD <br><br/>
 (Sets or stops a stopwatch)
 ```
 Thank you!:3
