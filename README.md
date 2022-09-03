@@ -76,6 +76,8 @@ Run the file __main.py__  to launch Friday. First launch will be the longest, as
 
 
 # How to use it?
+
+This is just brief description of Friday's functions. You can check full documentation on Friday on its [website](https://quruma.wixsite.com/friday/documentaiton)
 Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 
 >1. **Remember_CMD**  
@@ -108,7 +110,7 @@ for example: what about the __weather__ today
 (Sets or stops a stopwatch)  
 for example: set a stopwatch please, stop a stopwatch  
   
-Every function has its own keywords which will make it easier for model to make more accurate predictions of needed function. You can read about them in the [documentaion]() 
+Every function has its own keywords which will make it easier for model to make more accurate predictions of needed function. You can read about them in the [documentaion](https://quruma.wixsite.com/friday/documentaiton) 
 
 # Notes  
 
