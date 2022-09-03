@@ -118,6 +118,8 @@ If you want to retrain the model used in Friday for your own uses, you can use _
 The Friday will use more complex models to calculate the needed functions to be executed. Additionally, it will use more sophisticated NLP technologies to get as more accurate understanding of user's speech as it can without considerable losses in time. Obviously, there will be more functions to execute. However, the most surprising point will be implementing Computer Vision in Friday, which will greatly increase its capabilities.   
 
 
+Keep all files in the same directories.
+
 Thank you!:3
 
 If you have any problems with instalation or with reposity itself, feel free to cantact me: **_mizu2guruma@gmail.com_**
