@@ -77,7 +77,7 @@ Run the file __main.py__  to launch Friday. First launch will be the longest, as
 
 # How to use it?
 
-This is just brief description of Friday's functions. You can check full documentation on Friday on its [website](https://quruma.wixsite.com/friday/documentaiton)
+This is just brief description of Friday's functions. You can check full documentation of Friday on (https://quruma.wixsite.com/friday/documentaiton)
 Yet, there are only 6 functions that Friday is capable to execute:<br><br/>
 
 >1. **Remember_CMD**  
